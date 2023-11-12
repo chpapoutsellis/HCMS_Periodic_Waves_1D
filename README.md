@@ -1,4 +1,4 @@
-# PeriodicWW_1D
+# HCMS_Periodic_Waves_1D
 
 Calculation of periodic non-linear water waves over finite depth using 
 the Hamiltonian Coupled-Mode System (HCMS)
